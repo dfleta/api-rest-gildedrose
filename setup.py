@@ -26,7 +26,7 @@ setuptools.setup(
         'Click==7.0',
         'dnspython==1.16.0',
         'Flask==1.1.1',
-        'Flask-Cors==3.0.8',
+        'Flask-Cors==3.0.9',
         'flask-mongoengine==0.9.5',
         'Flask-PyMongo==2.3.0',
         'Flask-RESTful==0.3.7',
